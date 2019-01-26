@@ -42,3 +42,4 @@ Commander AI implements multithreading by assigning `AIBrains` to worker threads
 I used an earlier (and much uglier) version of this system that enabled merchant vessles to dynamically find profitable trade routes in a ship game I was building a few months ago. (Remind myself to upload a video of this later)
 
 There are also some unit tests that prove the basic functionality of the program.
+https://github.com/FreakingBarbarians/CommanderAi/blob/master/UnitTestProject1/UnitTest1.cs
